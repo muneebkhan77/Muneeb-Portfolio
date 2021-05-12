@@ -1,4 +1,4 @@
-# SQL-and-Relational-DB-on-IBM-Db2-cloud
+# SQL-and-Relational-DB-on-IBM-Db2-cloud-Course Project
 HR Database Project for extracting queries like string patterns, sorting result sets and grouping result sets
 
 
