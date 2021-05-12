@@ -1,5 +1,5 @@
-# Muneeb_Portfolio
-Data Science Portfolio
+
+# Data Science Portfolio
 
 # Project 1: Lab Project  String Patterns, Sorting & Grouping 
 * SQL and Relational Database 101 Course
