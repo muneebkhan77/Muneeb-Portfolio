@@ -12,3 +12,4 @@
 * Google play store dataset from Kaggle was used
 * Data was cleaned, transformed and modeled 
 * Ratings, Reviews and pricing were analyzed against various categories of application
+[Project 1](https://github.com/muneebkhan77/Google_play_store_ratings/blob/main/Predicting%20Google%20App's%20Rating.ipynb)
