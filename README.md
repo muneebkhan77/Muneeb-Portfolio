@@ -1,5 +1,5 @@
 
-# Data Science Portfolio
+# Data Analyst Portfolio
 
 # SQL and Relational DB course project
 * SQL and Relational Database 101 Course
