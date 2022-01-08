@@ -1,5 +1,5 @@
 
-# Data Analyst Portfolio
+# Muneeb Khan Portfolio
 
 # SQL and Relational DB course project
 * SQL and Relational Database 101 Course
