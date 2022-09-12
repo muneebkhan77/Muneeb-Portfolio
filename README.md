@@ -23,7 +23,7 @@
 [Project 4](https://github.com/muneebkhan77/Recruitersspace/blob/main/main.py)
 
 # Browsemymovies
-[website]([https://movie-browser-9be99.web.app/]
+[website](https://movie-browser-9be99.web.app/)
 * A movie browser website that lets you browse through movies and get their details
 * This a single page Web app made using react.js, CSS and HTML
 
