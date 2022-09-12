@@ -22,7 +22,7 @@
 * In python, Flask and Django are the two web development frameworks available. We have opted for Flask because it involves minimal coding, is lightweight and is easy to deploy in production. Moreover, to display data on html page, stored in database related to a particular applicant, we have used jinja templates, available only in Flask.
 [Project 4](https://github.com/muneebkhan77/Recruitersspace/blob/main/main.py)
 
-# Moviebrowser
+# Browsemymovies
 [website]([https://movie-browser-9be99.web.app/]
 * A movie browser website that lets you browse through movies and get their details
 * This a single page Web app made using react.js, CSS and HTML
